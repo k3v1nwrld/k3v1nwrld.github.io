@@ -3,7 +3,7 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Utilities
 Maintainer: k3v1n <kevinmarena2006@gmail.com>
-Filename: ./deb/com.k3v1n.RebootUserspace_1.0_iphoneos-arm.deb
+Filename: ./debs/com.k3v1n.RebootUserspace_1.0_iphoneos-arm.deb
 Size: 11072
 MD5sum: 84ad494bc15a6225f01fdd5c47572ed2
 SHA1: c1dbca54ec7c39aaadf8f6679cf611d985203e70
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Utilities
 Maintainer: k3v1n <kevinmarena2006@gmail.com>
-Filename: ./deb/com.k3v1n.Respring_1.1_iphoneos-arm.deb
+Filename: ./debs/com.k3v1n.Respring_1.1_iphoneos-arm.deb
 Size: 14456
 MD5sum: 5556b01f8ce37c3176d793823dcacbc0
 SHA1: 4e2cec1bbbf9c33f5eaba4fbf468289b6ad3a618
@@ -37,7 +37,7 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Utilities
 Maintainer: k3v1n <kevinmarena2006@gmail.com>
-Filename: ./deb/com.k3v1n.SafeMode_1.0_iphoneos-arm.deb
+Filename: ./debs/com.k3v1n.SafeMode_1.0_iphoneos-arm.deb
 Size: 952592
 MD5sum: c3368102eb1d6e68f4f0dc6d4eb6e7de
 SHA1: a3e6fbd08533a3e07584d02b7f7bf889880b382a
