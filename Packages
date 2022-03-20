@@ -3,7 +3,7 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Utilities
 Maintainer: k3v1n <kevinmarena2006@gmail.com>
-Filename: ./debs/com.k3v1n.RebootUserspace_1.0_iphoneos-arm.deb
+Filename: ./deb/com.k3v1n.RebootUserspace_1.0_iphoneos-arm.deb
 Size: 11072
 MD5sum: 84ad494bc15a6225f01fdd5c47572ed2
 SHA1: c1dbca54ec7c39aaadf8f6679cf611d985203e70
@@ -20,24 +20,23 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Utilities
 Maintainer: k3v1n <kevinmarena2006@gmail.com>
-Filename: ./debs/com.k3v1n.Respring_1.1_iphoneos-arm.deb
-Size: 14456
-MD5sum: 5556b01f8ce37c3176d793823dcacbc0
-SHA1: 4e2cec1bbbf9c33f5eaba4fbf468289b6ad3a618
-SHA256: e30de95d066e45a84bfb9ab4a8c86c6c55ec8984260be2b6ebd57f71f867fb51
-SHA512: 6b5fe49e4ace247bcc733bf4b10fee3412c17dae0a8fbb31ae87a587ba323f9390661948ba63e67ffd39b5b64da267ed8f79bcc23734213c70276aacc68f420a
-Description: This Is An App When Opened It Resprings, Or Open rs:// In Safari
-Name: Respring App
-Author: K3v1n
- <kevinmarena2006@gmail.com>
-Icon: file:///Applications/Respring.app/AppIcon.png
+Filename: ./deb/com.k3v1n.Respring_1.0_iphoneos-arm.deb
+Size: 6400
+MD5sum: 14db84518a56e9b66aea7874460f3240
+SHA1: 0fc8e436c591dedba57289086adbfaf175d1ea5d
+SHA256: 7aca7b121ced03d851b77252887bff9df780bb74a412d9b4d3950888a0def411
+SHA512: 9ec6954e3425bee699908e802676cf9de02baf6763b6c49fdb881d9288155b3fb6d47497cff2dc41e6650d0e8baee8c01343f9a412c81046d5171f2b249a165b
+Description: Respring App
+Name: Respring
+Author: k3v1n<kevinmarena2006@gmail.com>
+Depiction: This Is An App When Opened It Resprings, Or Open rs:// In Safari
 
 Package: com.k3v1n.SafeMode
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Utilities
 Maintainer: k3v1n <kevinmarena2006@gmail.com>
-Filename: ./debs/com.k3v1n.SafeMode_1.0_iphoneos-arm.deb
+Filename: ./deb/com.k3v1n.SafeMode_1.0_iphoneos-arm.deb
 Size: 952592
 MD5sum: c3368102eb1d6e68f4f0dc6d4eb6e7de
 SHA1: a3e6fbd08533a3e07584d02b7f7bf889880b382a
