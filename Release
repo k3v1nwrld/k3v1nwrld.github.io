@@ -1,8 +1,8 @@
-Origin: Repo
-Label: Repo
+Origin: Personal repo
+Label: k3v1n
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: idk
 Architectures: iphoneos-arm
 Components: main
-Description: Sileo/Cydia repo 
+Description: Just a personal repo
