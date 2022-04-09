@@ -1,0 +1,121 @@
+Package: com.hius.avlolock
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Hius
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./deb/AV orientation lock.deb
+Size: 14672
+MD5sum: cd6369097dd961dc43c4b2376b46b51b
+SHA1: 8a90c3bcc7a40c58f84058e49228d7aa06fd28ed
+SHA256: 3f8bb3adeff1b52dcf78424f0465529ddc25edbe3fc780ddc783ec638c7b9353
+SHA512: f69e922ad32929b87e40a1f43645cf171b8220d4a5c8e6e7ed32bf9b00886b39761ba3345bce6a9d93c78c8058925e41bfcefef24fe8786e6845e32dd09548af
+Description: Add landscape orientation lock button to AVPlayer.
+Name: AV Landscape Orientation Lock
+Author: Hius
+
+Package: com.k3v1n.RebootUserspace
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Utilities
+Maintainer: k3v1n <kevinmarena2006@gmail.com>
+Filename: ./deb/com.k3v1n.RebootUserspace.deb
+Size: 11072
+MD5sum: 84ad494bc15a6225f01fdd5c47572ed2
+SHA1: c1dbca54ec7c39aaadf8f6679cf611d985203e70
+SHA256: 5c58e32005454d9a496406d3915646870bdd840ad2a9adf58e8b1ab111419f81
+SHA512: ba3cdc33600be3111fb0e36fc7ebb54145807d5c68152a3cd9bbfd5bbd2524d17a339fc80b79c43868f225c36fdaae196959a80da5abea4826f0e22a56228569
+Description: This Is An App When Opened It Reboots The Userspace
+Name: Reboot Userspace app
+Author: K3v1n
+ <kevinmarena2006@gmail.com>
+Icon: file:///Applications/Respring.app/AppIcon.png
+
+Package: com.k3v1n.Respring
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Utilities
+Maintainer: k3v1n <kevinmarena2006@gmail.com>
+Filename: ./deb/com.k3v1n.Respring.deb
+Size: 6348
+MD5sum: 7b65a77b5474e1cf42b973c407f1cdd3
+SHA1: cb65c4fd884629c1235f18c19f591635b5b5225d
+SHA256: edc1e5a66aab882560b340e505b4cc15876f7dbb582daae7f55e803133bc7582
+SHA512: 4ed69263f308ab4b40aa189f518771dc003df9b9bf0b9838cb9f1903d1be09ace32fd9cc84b3c659fc49b49b31a350047a20b9201163a81e80604ab2a5810f39
+Description: Respring App
+Name: Respring
+Author: k3v1n <kevinmarena2006@gmail.com>
+
+Package: com.k3v1n.SafeMode
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Utilities
+Maintainer: k3v1n <kevinmarena2006@gmail.com>
+Filename: ./deb/com.k3v1n.SafeMode.deb
+Size: 952592
+MD5sum: c3368102eb1d6e68f4f0dc6d4eb6e7de
+SHA1: a3e6fbd08533a3e07584d02b7f7bf889880b382a
+SHA256: 812d777d7287c5d4c812711f8d51bd96d472ecf5ce4c75ea84ffd37097c30424
+SHA512: df5907ea6403354557a971efdb998cc8e7cab441c3888be277ce924549cb590b53a4f18acbfa17b94a2b182e4edf3d87473994ca9ed9f1cf64fcbd7a2b033302
+Description: This Is An App That Launches You Into Safe Mode
+Name: Safe Mode App
+Author: K3v1n
+ <kevinmarena2006@gmail.com>
+Icon: file:///Applications/SafeMode.app/AppIcon.png
+
+Package: com.pantsthief.flexing
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Tanner Bennett
+Installed-Size: 208
+Pre-Depends: firmware (>= 8.0)
+Depends: libflex
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: ./deb/com.pantsthief.flexing_1.2.0.deb
+Size: 14868
+MD5sum: 76bdf47e87cd9169db4a656348190b5c
+SHA1: 7ab58ec18a35e9a781c40c7325109bc2b9c43041
+SHA256: 142904c8de2764df8e5c6b2b087883f384ad3372007d0d4465d1d6cd92b2586a
+SHA512: 3c1729ada94ec7af475b1e25ca872fb1a964fa799a5bf6e4d39871fe1cbe5c0940942049a39227220fec612c39b46832fa8e3efadbf0e1420f1735f4e1a20856
+Description: Open FLEX anywhere!
+Name: FLEXing
+Author: Tanner Bennett
+
+Package: libflex
+Architecture: iphoneos-arm
+Version: 3.1.2
+Section: Tweaks
+Maintainer: Tanner Bennett
+Installed-Size: 4560
+Pre-Depends: firmware (>= 9.0)
+Depends:
+Filename: ./deb/libflex_3.1.2.deb
+Size: 1048290
+MD5sum: 049b8c17d3bb59fe4aae1c3ead1c574a
+SHA1: 3e9a6323df0e14af7ea9d0d2ba71ff5b832d6b52
+SHA256: b90a5eb62cdf3cf3045608926929547e91a3469e900708aecee0fc8963cd4708
+SHA512: af5385541f24a395d8997e24d3c30edb740bc509eac8828f7002b67293952ff5c8909c26020a6d7c0ac7958e5ee2f72fedca7847f88ab22fdf09d7a34c172244
+Description: A library for Flipboard Explorer.
+Name: libFLEX
+Author: Tanner Bennett
+
+Package: me.nepeta.relocatereborn
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 492
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), preferenceloader
+Conflicts: me.nepeta.relocate
+Filename: ./deb/me.nepeta.relocatereborn_1.0.1_iphoneos-arm.deb
+Size: 117266
+MD5sum: 95b804b7555c1f7828c81a172e309cc2
+SHA1: 928a516288acacdd71528b6e6832b35c13456d9e
+SHA256: a17dcd254fe0585e46f671a7aefa6278ea991d4771eead2c785b4c8f911a013a
+SHA512: cef8a28d51da570d723b6380188c210a3cac22e869547cfc29fe99d847a6f1b910f32311c2e05fe6ab65559964c6dc004fbc6cc1b89e6d8b621d82073b52d7b9
+Description: Minimalist GPS spoofer (free, iOS 13+)
+Name: Relocate Reborn
+Author: Nepeta
+
