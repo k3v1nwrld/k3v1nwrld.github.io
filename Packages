@@ -335,6 +335,23 @@ Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-aut
 Name: AutoScroll
 Sileodepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
 
+Package: com.sudo.debra
+Version: 2.8.3
+Architecture: iphoneos-arm64
+Maintainer: Sudo
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.sudo.debra_2.8.3_iphoneos-arm64.deb
+Size: 13876
+MD5sum: b287c1974b390e5fe773d314917127b1
+SHA1: a3e3f453fd0d60a5dee385f3d266a73f97be9c29
+SHA256: 7944457514484eeaf65d511769ccd5b9e33bf11a8a881e4e04ff9e5879a80115
+Section: Utilities
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal. For rooted & rootless jailbreaks.
+Author: Sudo & Paisseon
+Depiction: https://sudo9000.github.io/depictions/debra/index.html
+Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
+Name: Debra
+
 Package: com.tannerbennett.icleanerzombie
 Version: 0.0.3
 Architecture: iphoneos-arm64
