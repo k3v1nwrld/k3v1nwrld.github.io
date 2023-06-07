@@ -1,0 +1,35 @@
+name: Update Packages File
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Install dpkg
+      run: sudo apt-get update && sudo apt-get install -y dpkg
+
+    - name: Run Update Script
+      run: |
+        git clone https://github.com/k3v1nwrld/k3v1nwrld.github.io
+        cd k3v1nwrld.github.io/
+        sh update.sh
+
+    - name: Upload Packages Files
+      uses: actions/upload-artifact@v2
+      with:
+        name: Packages
+        path: |
+          k3v1nwrld.github.io/Packages
+          k3v1nwrld.github.io/Packages.bz2
+          k3v1nwrld.github.io/Packages.gz
+          k3v1nwrld.github.io/Packages.xz
+          k3v1nwrld.github.io/Packages.zst
