@@ -318,6 +318,23 @@ Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
 Name: FLEXing
 Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
 
+Package: com.pxcex.autoscroll
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: pxcex
+Depends: mobilesubstrate
+Filename: ./debs/com.pxcex.autoscroll_1.0.0_iphoneos-arm64.deb
+Size: 5360
+MD5sum: 9cce75ec79faa9b06475ad50a6263c60
+SHA1: 7564fa47b7c167123b492b923de511629dccab4f
+SHA256: 47b39cb8bd00f1daff379d95e49eed388d5301bf918efd568aa7789d4d54518c
+Section: Tweaks
+Description: Prevent finger fatigue. No options to configure.
+Author: pxcex
+Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-autoscroll.png
+Name: AutoScroll
+Sileodepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
+
 Package: com.tannerbennett.icleanerzombie
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -437,22 +454,4 @@ Depiction: https://havoc.app/depiction/cardculator
 Icon: https://media.havoc.app/627ad1f664d09c07d4a40439
 Name: Cardculator
 Sileodepiction: https://havoc.app/package/cardculator/depiction.json
-
-Package: xyz.cypwn.autoscroll15
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate
-Filename: ./debs/xyz.cypwn.autoscroll15_1.0.0.deb
-Size: 8178
-MD5sum: 8c3b01b6b28a5e085a678774b499ad28
-SHA1: 2015819f31df71e938bf09b0c1a10d503df03dbf
-SHA256: de0b3040784f695513cb7723e342849ef27de5f3993b09096ab4a1126d53b502
-Section: Tweaks
-Description: Prevent finger fatigue. No options to configure.
-Author: pxcex
-Depiction: https://repo.cypwn.xyz/depiction/1278
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/autoscroll.png
-Name: AutoScroll iOS15
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1278
 
