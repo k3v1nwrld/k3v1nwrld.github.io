@@ -34,42 +34,6 @@ Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=truecutsD
 Icon: file:///Library/Application%20Support/Truecuts/Icon@2x.png
 Name: Truecuts
 
-Package: com.fouadraheb.appdata
-Version: 1.3.6
-Architecture: iphoneos-arm64
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.fouadraheb.appdata_1.3.6_iphoneos-arm64.deb
-Size: 147768
-MD5sum: b42a9d683be2d26bc5dc94df7047e9a2
-SHA1: 027d4ed0fda185449e1cfb72251418ddd8e81aa2
-SHA256: d6f6c97cf1f1d4ff9299c44a86fb169c558ed540faf99c2d1535513c9a80dae5
-Section: Tweaks
-Description: View & Manage Applications Data from your Home Screen
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
-Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
-Name: AppData
-Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
-
-Package: com.fouadraheb.appdata
-Version: 1.4.0
-Architecture: iphoneos-arm64
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.fouadraheb.appdata_1.4.0_iphoneos-arm64.deb
-Size: 770804
-MD5sum: fbabbc8a74b1c8ee3937e34c4a8d0901
-SHA1: bf8a6a94a832681ea92547c7a3e56180c822024c
-SHA256: a4f1e942b11435ac56e3a5490be57d6775e19ae575e36867f54ed40e7333d791
-Section: Tweaks
-Description: View & Manage Applications Data from your Home Screen
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
-Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
-Name: AppData
-Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
-
 Package: com.hius.avlolock
 Version: 1.0
 Architecture: iphoneos-arm64
