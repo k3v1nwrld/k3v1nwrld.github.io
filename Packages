@@ -15,6 +15,22 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paiss
 Name: iCleaner Pro Crack
 Sileodepiction: https://paisseon.github.io/depictions/icleaner-pro-crack.json
 
+Package: com.ethanarbuckle.apollo-customapicredentials
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Ethan Arbuckle
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ethanarbuckle.apollo-customapicredentials_1.0.0_iphoneos-arm64.deb
+Size: 2444
+MD5sum: a3dde5e3c55005117fd5d32bd9f11927
+SHA1: 1ece94bf2f81653d5adbe42fa46c4f91a992e009
+SHA256: 286f3dd07224e54a1fbc93f8fc60bcb79aa81fa33d8983ec73bccd9455b80de1
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Ethan Arbuckle
+Name: Apollo-CustomApiCredentials
+
 Package: com.ethanrdoesmc.truecuts
 Version: 1.1.0
 Architecture: iphoneos-arm64
