@@ -384,17 +384,17 @@ Name: Rocket for Instagram
 Sileodepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
 
 Package: me.lau.atria
-Version: 1.4.0~beta9
+Version: 1.4.0~beta10
 Architecture: iphoneos-arm64
 Maintainer: ren7995
-Installed-Size: 952
+Installed-Size: 968
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
 Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
-Filename: ./debs/me.lau.atria_1.4.0beta9_iphoneos-arm64.deb
-Size: 235444
-MD5sum: ef583bd0812ea58244084d35d9fe2d8f
-SHA1: adf98be47ba4eb29aea41c9e29ba8a6cd215ad6c
-SHA256: 6c2109d9255a8d7eaea9d24ecffedf3fdd086328dc983caccf0c3bf2c1b5af0c
+Filename: ./debs/me.lau.atria_1.4.0beta10_iphoneos-arm64.deb
+Size: 237118
+MD5sum: 3252994d47161e9811aee37b2183ab2b
+SHA1: ad8d2f1911da0026c16eb9b4b27b16ccf50cf306
+SHA256: 8dbd5a140a9666e85569391db6bda6a0b6d9216d18857188691270ee8e4f5c12
 Section: Tweaks
 Description: A proper homescreen layout editor for iOS 13-16
 Author: ren7995
