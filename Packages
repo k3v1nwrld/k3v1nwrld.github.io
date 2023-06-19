@@ -90,25 +90,6 @@ Name: AppStoreUpdatesTab
 Sileodepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.appstoreupdatestab13.json
 
 Package: com.jontelang.snapper2.packix
-Version: 2.6.1
-Architecture: iphoneos-arm64
-Maintainer: jontelang
-Depends: mobilesubstrate, firmware(>=15.0)
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2
-Filename: ./debs/com.jontelang.snapper2.packix_2.6.1_iphoneos-arm64.deb
-Size: 408212
-MD5sum: 08711ae1a054083aad90e27f074b0b87
-SHA1: 309f834c8d52df9dec9cfd05a99ec65bf46e3ac5
-SHA256: 895c987e88b5e178f085e8bd9e239d7032cabedd068e84af105d2a07536aafa5
-Section: Tweaks
-Description: Pin screenshots on the screen.
-Author: Jonathan Winger-lang
-Depiction: https://havoc.app/depiction/snapper2
-Icon: https://media.havoc.app//620537d57c5e627af05611b6
-Name: Snapper 2
-Sileodepiction: https://havoc.app/package/snapper2/depiction.json
-
-Package: com.jontelang.snapper2.packix
 Version: 2.7.0
 Architecture: iphoneos-arm64
 Maintainer: jontelang
@@ -125,6 +106,25 @@ Author: Jonathan Winger-lang
 Depiction: https://havoc.app/depiction/snapper2
 Icon: https://media.havoc.app//620537d57c5e627af05611b6
 Name: Snapper 2
+Sileodepiction: https://havoc.app/package/snapper2/depiction.json
+
+Package: com.jontelang.snapper3
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: jontelang
+Depends: mobilesubstrate, firmware(>=15.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix
+Filename: ./debs/com.jontelang.snapper3_1.0_iphoneos-arm64.deb
+Size: 910920
+MD5sum: ff3ef23f2c71c71cb2bdecc473035693
+SHA1: 72978ce55876b6fc883fcf1ec76bde353ec44703
+SHA256: cd440d997afc5da72b4e2da52cc1adf87c65afd831ff837abfdfa745307b9fc3
+Section: Tweaks
+Description: Pin screenshots on the screen.
+Author: Jonathan Winger-lang
+Depiction: https://havoc.app/depiction/snapper2
+Icon: https://media.havoc.app//620537d57c5e627af05611b6
+Name: Snapper 3
 Sileodepiction: https://havoc.app/package/snapper2/depiction.json
 
 Package: com.kevin.gameshut
