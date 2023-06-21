@@ -348,24 +348,6 @@ Author: Tanner Bennett
 Name: iCleanerZombie
 
 Package: me.alfhaily.rocket
-Version: 3.8.8
-Architecture: iphoneos-arm64
-Maintainer: Majd Alfhaily
-Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/me.alfhaily.rocket_3.8.8_iphoneos-arm64.deb
-Size: 1424508
-MD5sum: a22de7b55518ea010f290b7819901c7f
-SHA1: 85a9fa0b4c2125590ab7dd7a957cdf03b1f304fb
-SHA256: 0c37b79cc7d2257a46d5e4724970067936936681fc576f395a0b161e33989d3f
-Section: Tweaks
-Description: Save posts and view stories anonymously and do much more
-Author: Majd Alfhaily
-Depiction: https://apt.alfhaily.me/depiction/4EYOXC
-Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
-Name: Rocket for Instagram
-Sileodepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
-
-Package: me.alfhaily.rocket
 Version: 3.8.9
 Architecture: iphoneos-arm64
 Maintainer: Majd Alfhaily
@@ -382,23 +364,6 @@ Depiction: https://apt.alfhaily.me/depiction/4EYOXC
 Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
 Name: Rocket for Instagram
 Sileodepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
-
-Package: me.lau.atria
-Version: 1.4.0~beta10
-Architecture: iphoneos-arm64
-Maintainer: ren7995
-Installed-Size: 968
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
-Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
-Filename: ./debs/me.lau.atria_1.4.0beta10_iphoneos-arm64.deb
-Size: 237118
-MD5sum: 3252994d47161e9811aee37b2183ab2b
-SHA1: ad8d2f1911da0026c16eb9b4b27b16ccf50cf306
-SHA256: 8dbd5a140a9666e85569391db6bda6a0b6d9216d18857188691270ee8e4f5c12
-Section: Tweaks
-Description: A proper homescreen layout editor for iOS 13-16
-Author: ren7995
-Name: Atria
 
 Package: ovh.exerhythm.cardculator
 Version: 2.0
