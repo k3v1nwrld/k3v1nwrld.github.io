@@ -347,29 +347,6 @@ Description: Keep iCleanerPro alive when you leave the app. Also changes the def
 Author: Tanner Bennett
 Name: iCleanerZombie
 
-Package: dev.theos.dependencies2
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: lightmann
-Installed-Size: 0
-Depends: ca-certificates, clang, coreutils, curl, dpkg, firmware (>=12.0), git, grep, ldid, make, odcctools, perl, plutil | com.bingner.plutil | libplist-utils, rsync, xz | xz-utils
-Conflicts: dev.theos.dependencies, org.theos.dependencies, theos-dependencies
-Provides: org.theos.dependencies, theos-dependencies
-Filename: ./debs/dev.theos.dependencies2_1.0.0_iphoneos-arm64.deb
-Size: 900
-MD5sum: c5ed18b44585a6f1acd09853fe343127
-SHA1: d333ed68dbe5be6553aa1a8b4d2ab5d868a8253b
-SHA256: 0c0136988c0d24986bfac6bbc2b977f24509ded3f40d94fed7d99cfe097aeb9b
-Section: Development
-Description:
- Procursus-based jailbreaks, add https://apt.procursus.us before installing this package
- Elucubratus-based jailbreaks, add https://apt.bingner.com before installing this package
- A meta package that provides what Theos needs including cacerts, clang, coreutils, curl, dpkg,
- git, grep, ldid, make, darwin cc tools, perl, plutil or plistutil, rsync, and xz utils.
- For devices running iOS >= 12.0. For devices running iOS << 12.0, see dev.theos.dependencies.
-Author: lightmann
-Name: Theos Dependencies
-
 Package: me.alfhaily.rocket
 Version: 3.8.9
 Architecture: iphoneos-arm64
