@@ -69,26 +69,6 @@ Icon: https://repo.packix.com/media/com.hius.avlolock/icon.png
 Name: AV Landscape Orientation Lock
 Sileodepiction: https://repo.packix.com/depictions/com.hius.avlolock/depiction.json
 
-Package: com.johnzaro.appstoreupdatestab13
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: Johnzaro <johnzrgnns@gmail.com>
-Installed-Size: 172
-Depends: mobilesubstrate, firmware (>= 13)
-Filename: ./debs/com.johnzaro.appstoreupdatestab13_1.2_iphoneos-arm64.deb
-Size: 5496
-MD5sum: 2871642332bafb07434888ab0fb3593c
-SHA1: ecdb2daae909c2abba0dba63d02fea662e578e6e
-SHA256: 96d3631055780b121250aed28b7cf263fac23cf9bc9b093f7beaa55cd354c9ee
-Section: Tweaks
-Description: Replace Arcade button with "Show Updates" button in the AppStore app
-Author: Johnzaro <johnzrgnns@gmail.com>
-Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.appstoreupdatestab13.html
-Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.appstoreupdatestab13/icon.png
-Modemdepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.appstoreupdatestab13.json
-Name: AppStoreUpdatesTab
-Sileodepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.appstoreupdatestab13.json
-
 Package: com.jontelang.snapper2.packix
 Version: 2.7.0
 Architecture: iphoneos-arm64
@@ -142,38 +122,6 @@ Section: Tweaks
 Description: Kaboom gamecenter notifs
 Author: kevin
 Name: GameShut
-
-Package: com.kevin.hideappupdatedots
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: kevin
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.kevin.hideappupdatedots_1.0_iphoneos-arm64.deb
-Size: 2866
-MD5sum: bb9ef53dfcef2a041d5a8f6bc26d3cbf
-SHA1: 437078d64c01b7195bb0a4ee8078208bdd141220
-SHA256: 71b2eaf817c078cb491a950227e4556dae96d07682a16842d8846f03ece19bf8
-Section: Tweaks
-Description: Hides app update and testflight dots.
-Author: kevin
-Name: HideAppUpdateDots
-
-Package: com.kevin.nobreadcrumbs
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: kevin
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.kevin.nobreadcrumbs_1.0_iphoneos-arm64.deb
-Size: 2710
-MD5sum: 2ed9ee9b0e25d71050ac1ccf6954d0c9
-SHA1: 4fa915e7545a1b75d28469ba81b40f15106783df
-SHA256: 0a62261af3744baee8ec986eea1e808ab777d6a87dfd2aade3b0de2998201f78
-Section: Tweaks
-Description: Disable breadcrumbs on ios 15!
-Author: kevin
-Name: NoBreadcrumbs
 
 Package: com.kevin.noccbar
 Version: 1.0
@@ -242,43 +190,6 @@ Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=ht
 Name: Apollo Ultra Crack
 Sileodepiction: https://paisseon.github.io/depictions/apollo-ultra-crack.json
 
-Package: com.nahtedetihw.sixteenmusic
-Version: 1.6
-Architecture: iphoneos-arm64
-Maintainer: ETHN
-Depends: mobilesubstrate
-Filename: ./debs/com.nahtedetihw.sixteenmusic_1.6_iphoneos-arm64.deb
-Size: 427384
-MD5sum: 14d190f58ed21ffea9eff41f2514d633
-SHA1: 438901fa04374c7880a6cb1e16c93ad7b9ea953a
-SHA256: 8b500e0f4f169f39fa63ccc1acebffeba395846245be03571ac7c2bcf99ec32f
-Section: Tweaks
-Description: iOS 16 style lock screen music player!
-Author: Ethan Whited
-Depiction: https://havoc.app/depiction/sixteenmusic
-Icon: https://media.havoc.app/63def90098112480293d2456
-Name: SixteenMusic
-Sileodepiction: https://havoc.app/package/sixteenmusic/depiction.json
-
-Package: com.noisyflake.betteralarm
-Version: 1.4.1
-Architecture: iphoneos-arm64
-Maintainer: NoisyFlake
-Installed-Size: 748
-Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
-Filename: ./debs/com.noisyflake.betteralarm_1.4.1_iphoneos-arm64.deb
-Size: 295472
-MD5sum: c27fee38c646bbd735ba577a024e97f6
-SHA1: 3a2db28f7aae43cd44a3367d77e1163ce0f2b6a0
-SHA256: afbafdf72e0001675785282551e6129ea882878aa5c49ab6b7de6c0673c10bd7
-Section: Tweaks
-Description: A beautiful timer and alarm screen
-Author: NoisyFlake
-Depiction: https://chariz.com/buy/betteralarm
-Icon: https://img.chariz.cloud/icon/betteralarm/icon@3x.png
-Name: betterAlarm
-Sileodepiction: https://repo.chariz.com/api/sileo/package/com.noisyflake.betteralarm/depiction.json
-
 Package: com.pantsthief.flexing
 Version: 1.5.0
 Architecture: iphoneos-arm64
@@ -346,24 +257,6 @@ Section: Tweaks
 Description: Keep iCleanerPro alive when you leave the app. Also changes the default opening tab to the dylib toggles section.
 Author: Tanner Bennett
 Name: iCleanerZombie
-
-Package: me.alfhaily.rocket
-Version: 3.8.9
-Architecture: iphoneos-arm64
-Maintainer: Majd Alfhaily
-Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/me.alfhaily.rocket_3.8.9_iphoneos-arm64.deb
-Size: 1397184
-MD5sum: 12b08f5510ddef96dabba41ed818a4a1
-SHA1: 03172b025c96f4ef145d18b2168c3bc6801e8a56
-SHA256: 55555ae05c143d4a53f7ccff1305d16a5b537ab3ef66670562a6a1b1128d7d58
-Section: Tweaks
-Description: Save posts and view stories anonymously and do much more
-Author: Majd Alfhaily
-Depiction: https://apt.alfhaily.me/depiction/4EYOXC
-Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
-Name: Rocket for Instagram
-Sileodepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
 
 Package: ovh.exerhythm.cardculator
 Version: 2.0
