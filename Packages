@@ -123,56 +123,6 @@ Description: Kaboom gamecenter notifs
 Author: kevin
 Name: GameShut
 
-Package: com.kevin.noccbar
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: kevin
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.kevin.noccbar_1.0_iphoneos-arm64.deb
-Size: 3028
-MD5sum: 656dcbc54fac4b21bd19c7575298f727
-SHA1: 6028d811b055c3bce634f9c3d0d2b324e96eb47f
-SHA256: 55533fbc641f4a87de4590c567340070d6b05c88e90f61468f7168d3253450fb
-Section: Tweaks
-Description: This tweak hides the cc bar on the homescreen!
-Author: kevin
-Name: NoCCBar
-
-Package: com.kevin.statustimeformatter
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: kevin
-Installed-Size: 180
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.kevin.statustimeformatter_1.0_iphoneos-arm64.deb
-Size: 12090
-MD5sum: ca3ba7f306725ee86018ef81613b908a
-SHA1: 43bfe3ef711b5f0070b6af67611239c9fbb1805d
-SHA256: d8826bfb2abb17e35110129351721efceceb4ef5169ee676188b900eab8c8b52
-Section: Tweaks
-Description: An awesome Orion tweak!
-Author: kevin
-Name: StatusTimeFormatter
-
-Package: com.kevin.transparentdock
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: kevin
-Installed-Size: 176
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.kevin.transparentdock_1.0_iphoneos-arm64.deb
-Size: 13648
-MD5sum: d01987da89405b23a685e2cac0a59521
-SHA1: 52fcc91f85fb7c4eb5ecd28e44c3d768f5688ff5
-SHA256: 47bfc729b1bb009d7b3a970b7bb29176fa5154615d755996a21cb8ebd9644750
-Section: Tweaks
-Description: An open-source tweak to hide the dock background.
-Author: kevin
-Depiction: https://www.exerhythm.ovh/repo/depictions/web/?p=ovh.exerhythm.transparentdock
-Name: TransparentDock
-Sileodepiction: https://www.exerhythm.ovh/repo/depictions/native/ovh.exerhythm.transparentdock/depiction.json
-
 Package: com.lilliana.apollocrack
 Version: 1.3.3
 Architecture: iphoneos-arm64
@@ -226,23 +176,6 @@ Icon: https://cdn.plutorepo.com/media/static/content/?filename=1628836777363-aut
 Name: AutoScroll
 Sileodepiction: https://repo.plutorepo.com/sileo-depiction/AutoScroll
 
-Package: com.sudo.debra
-Version: 2.8.3
-Architecture: iphoneos-arm64
-Maintainer: Sudo
-Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/com.sudo.debra_2.8.3_iphoneos-arm64.deb
-Size: 13880
-MD5sum: 7f0bc71cc297f93acd38bab88e8c7e1b
-SHA1: 6bbbb760f4447db53d3dd018eea260327cf90f54
-SHA256: c76f3289eb29552de2a319e6d011021dcf4423bb8d8e1ceabca3fc6d2e180f1d
-Section: Tweaks
-Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal. For rooted & rootless jailbreaks.
-Author: Sudo & Paisseon
-Depiction: https://sudo9000.github.io/depictions/debra/index.html
-Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
-Name: Debra
-
 Package: com.tannerbennett.icleanerzombie
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -257,25 +190,6 @@ Section: Tweaks
 Description: Keep iCleanerPro alive when you leave the app. Also changes the default opening tab to the dylib toggles section.
 Author: Tanner Bennett
 Name: iCleanerZombie
-
-Package: ovh.exerhythm.cardculator
-Version: 2.0
-Architecture: iphoneos-arm64
-Maintainer: sourcelocation
-Installed-Size: 896
-Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
-Filename: ./debs/ovh.exerhythm.cardculator_2.0_iphoneos-arm64.deb
-Size: 116944
-MD5sum: 4852b15deace359107b6bb631478fde5
-SHA1: deaae09fee9215d2e1828491f6cd2fd9760968d7
-SHA256: 2ea61b1b5312abf688d0be1e144a18f6d670533e55b881f5df2d7621b5aebccb
-Section: Tweaks
-Description: Calculator, but smaller
-Author: sourcelocation
-Depiction: https://havoc.app/depiction/cardculator
-Icon: https://media.havoc.app/627ad1f664d09c07d4a40439
-Name: Cardculator
-Sileodepiction: https://havoc.app/package/cardculator/depiction.json
 
 Package: ovh.exerhythm.cardculator
 Version: 2.1.1
