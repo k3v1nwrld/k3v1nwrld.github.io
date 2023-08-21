@@ -1,3 +1,19 @@
+Package: com.34306.adspeed
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.adspeed_1.0_iphoneos-arm64.deb
+Size: 3204
+MD5sum: 6706c5b23873f4db3b1b63400a8d5776
+SHA1: b889e2b98dfe1643a4ac3387512190dbe0d477d1
+SHA256: 1d8bf5eda491c3208801847e236dad63fb6f24373c23a9da83b59dde673540c8
+Section: Tweaks
+Description: A simple tweak that can inject into game to speedup ads for reward.
+Author: 34306
+Name: Ads Speed
+
 Package: com.anna.icleanerprocrack
 Version: 1.1
 Architecture: iphoneos-arm64
