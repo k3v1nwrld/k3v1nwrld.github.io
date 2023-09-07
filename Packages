@@ -207,6 +207,24 @@ Description: Keep iCleanerPro alive when you leave the app. Also changes the def
 Author: Tanner Bennett
 Name: iCleanerZombie
 
+Package: me.alfhaily.opencli
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 68
+Filename: ./debs/me.alfhaily.opencli_1.0.0_iphoneos-arm64.deb
+Size: 2900
+MD5sum: a1ffc86b4229b066218ce1a8c16e839e
+SHA1: 3464c83f8cfc1168e87cd734b7a7f7776ac5a685
+SHA256: b59607a2fe9f2681f3f33c308da2d1cd15a46e931e798f847b86f0a1f0f999ef
+Section: System
+Description: Launch apps from the command-line, originally made by Conrad Kramer. This package is updated to work with Electra 11.x.
+Tag: purpose::console, role::hacker
+Author: Majd Alfhaily <freemanrepo@me.com>
+Dev: freemanrepo
+Name: Open
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: ovh.exerhythm.cardculator
 Version: 2.1.1
 Architecture: iphoneos-arm64
