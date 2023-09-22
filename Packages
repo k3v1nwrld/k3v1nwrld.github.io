@@ -73,17 +73,14 @@ Maintainer: Hius
 Installed-Size: 176
 Depends: mobilesubstrate
 Filename: ./debs/com.hius.avlolock_1.0_iphoneos-arm64.deb
-Size: 14624
-MD5sum: 5d1c8c5bcfb942859b01b4efe65b2480
-SHA1: 4b3ee67e5ea844b6f9ee473add1d2cf76b94bd2e
-SHA256: 8ec29d2168da0f4020307d64cab61f827f46a462ef7f56da68978fc33f59a496
+Size: 14708
+MD5sum: 69f0ca8a3f7ffc9d82d26ec101ddc045
+SHA1: 01340b1be38a7dcaf738dcd25d24e54632fe3c6f
+SHA256: 246b23fd3083238ead752a309aa8bd322a1a39e72d71e592cd30c6083486f0c4
 Section: Tweaks
 Description: Add landscape orientation lock button to AVPlayer.
 Author: Hius
-Depiction: https://repo.packix.com/package/com.hius.avlolock
-Icon: https://repo.packix.com/media/com.hius.avlolock/icon.png
 Name: AV Landscape Orientation Lock
-Sileodepiction: https://repo.packix.com/depictions/com.hius.avlolock/depiction.json
 
 Package: com.jontelang.snapper2.packix
 Version: 2.7.0
@@ -243,4 +240,22 @@ Depiction: https://havoc.app/depiction/cardculator
 Icon: https://media.havoc.app/627ad1f664d09c07d4a40439
 Name: Cardculator
 Sileodepiction: https://havoc.app/package/cardculator/depiction.json
+
+Package: uikittools
+Version: 2.1.6-1
+Architecture: iphoneos-arm64
+Essential: yes
+Maintainer: Procursus Team <support@procurs.us>
+Installed-Size: 764
+Depends: libiosexec1 (>= 1.3.1)
+Suggests: uikittools-extra (= 2.1.6-1)
+Breaks: uikittools-extra (<< 2.1.6)
+Filename: ./debs/uikittools_2.1.6-1_iphoneos-arm64.deb
+Size: 68968
+MD5sum: 3fffb785fc4ee4eea862edcb5ea5d944
+SHA1: 3815bd3e22663108ce0bc15cf9e29a7fd5560009
+SHA256: 591d4ff59d11938c35f3c90e6faec9391f8a829000707f9c5b81229f080c5bdb
+Section: Utilities
+Priority: required
+Description: Don't stop music when restarting springboard
 
