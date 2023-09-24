@@ -73,10 +73,10 @@ Maintainer: Hius
 Installed-Size: 176
 Depends: mobilesubstrate
 Filename: ./debs/com.hius.avlolock_1.0_iphoneos-arm64.deb
-Size: 14708
-MD5sum: 69f0ca8a3f7ffc9d82d26ec101ddc045
-SHA1: 01340b1be38a7dcaf738dcd25d24e54632fe3c6f
-SHA256: 246b23fd3083238ead752a309aa8bd322a1a39e72d71e592cd30c6083486f0c4
+Size: 14900
+MD5sum: c5652c95d49ef50211a346adcb7bbe5a
+SHA1: d1db27b2925dbba06be41619e5b6e55eb655bdc4
+SHA256: 73da90016ee1ba5d24b26f620231d106d70f647a494493e3a924755ff21489e7
 Section: Tweaks
 Description: Add landscape orientation lock button to AVPlayer.
 Author: Hius
