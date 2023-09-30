@@ -73,10 +73,10 @@ Maintainer: Hius
 Installed-Size: 176
 Depends: mobilesubstrate
 Filename: ./debs/com.hius.avlolock_1.0_iphoneos-arm64.deb
-Size: 14900
-MD5sum: c5652c95d49ef50211a346adcb7bbe5a
-SHA1: d1db27b2925dbba06be41619e5b6e55eb655bdc4
-SHA256: 73da90016ee1ba5d24b26f620231d106d70f647a494493e3a924755ff21489e7
+Size: 14912
+MD5sum: f7f51e590f65d8b76915f5a8eae9c376
+SHA1: 44f68ad7a8c8853deb15d780058771b83fcaf840
+SHA256: 31c2ca6326a94211351880b231dfb3179df9400cd7ffd5889056410db24c1cac
 Section: Tweaks
 Description: Add landscape orientation lock button to AVPlayer.
 Author: Hius
@@ -153,6 +153,28 @@ Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=ht
 Name: Apollo Ultra Crack
 Sileodepiction: https://paisseon.github.io/depictions/apollo-ultra-crack.json
 
+Package: com.lns.hardrespring
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 270
+Depends: mobilesubstrate, firmware (>= 5.0), uikittools
+Filename: ./debs/com.lns.hardrespring_0.0.1_iphoneos-arm64.deb
+Size: 5228
+MD5sum: 80bbbfb30f0ee93827f8f2032dfc1362
+SHA1: 01c9158a0e83e931b7e02fbfca9cfc99d26d88e6
+SHA256: b112d69c5b77b1a5ed0d2d13003fe03036037aeaf28ef53693078513385bff86
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hardrespringDp
+Description: Force respring with hardware buttons.
+Tag: purpose::extension
+Author: Ruphane <lnsspsd@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hardrespringDp
+Dev: lns
+Name: HardRespring
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.pantsthief.flexing
 Version: 1.5.0
 Architecture: iphoneos-arm64
@@ -221,6 +243,28 @@ Author: Majd Alfhaily <freemanrepo@me.com>
 Dev: freemanrepo
 Name: Open
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: me.tale.panic
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Aarnav Tale <aarnav@tale.me>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, xyz.cypwn.xinam1ne
+Conflicts: me.renai.panic
+Built-Using: Tale APT/2.0 (Aphrodite)
+Filename: ./debs/me.tale.panic_1.1.2_iphoneos-arm64.deb
+Size: 133584
+MD5sum: 22b2ae79562e002b0580bb94018cd55e
+SHA1: 0962b0be35dbe4183d71cdc39a15e4545924315c
+SHA256: 911fdd35e7622c1f073006ec8279ac9d1e1b9536d4e092003a0faa0df2d40d2f
+Section: Tweaks
+Description: Stop! Don't panic, you can still fix this...
+Author: Aarnav Tale <aarnav@tale.me>
+Depiction: https://apt.tale.me/me.tale.panic
+Header: https://apt.tale.me/packages/me.tale.panic/banner.jpg
+Icon: https://apt.tale.me/packages/me.tale.panic/icon.png
+Name: Panic!
+Native-Depiction: https://apt.tale.me/me.tale.panic.json
+Sileodepiction: https://apt.tale.me/me.tale.panic.json
 
 Package: ovh.exerhythm.cardculator
 Version: 2.1.1
