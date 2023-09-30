@@ -248,14 +248,14 @@ Package: me.tale.panic
 Version: 1.1.2
 Architecture: iphoneos-arm64
 Maintainer: Aarnav Tale <aarnav@tale.me>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, xyz.cypwn.xinam1ne
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
 Conflicts: me.renai.panic
 Built-Using: Tale APT/2.0 (Aphrodite)
 Filename: ./debs/me.tale.panic_1.1.2_iphoneos-arm64.deb
-Size: 133584
-MD5sum: 22b2ae79562e002b0580bb94018cd55e
-SHA1: 0962b0be35dbe4183d71cdc39a15e4545924315c
-SHA256: 911fdd35e7622c1f073006ec8279ac9d1e1b9536d4e092003a0faa0df2d40d2f
+Size: 133528
+MD5sum: 9cdfd8d65d906c2b530f4ff62d45abdd
+SHA1: 716414a7a8686e6b5d878e9c7719d735943d1857
+SHA256: a996ab66c68f98331d9ac712b619bd9199369f70f337e46dfcfaa8edd8ab3181
 Section: Tweaks
 Description: Stop! Don't panic, you can still fix this...
 Author: Aarnav Tale <aarnav@tale.me>
