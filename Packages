@@ -57,10 +57,10 @@ Maintainer: Hius
 Installed-Size: 176
 Depends: mobilesubstrate
 Filename: ./debs/com.hius.avlolock_1.0_iphoneos-arm64.deb
-Size: 14956
-MD5sum: 76df673edf17e17df39712e6cc55c49a
-SHA1: fbf4b30246b46828be3e91a1cc3810b8926f69a8
-SHA256: ee59d2b0fa0251515ce15b71af9298d6a99e07a57d8a56262ed396b8f8ddd845
+Size: 14948
+MD5sum: aca5f2a13a8072b5cbf2f244fa324b25
+SHA1: c34c3d5d155e873a542bcabd183d69a6c3c3ccd2
+SHA256: 31def0cd26c535b81f1ca20778b2634d822be8f970ec12c5dc69e56f50605019
 Section: Tweaks
 Description: Add landscape orientation lock button to AVPlayer.
 Author: Hius
@@ -255,10 +255,10 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
 Conflicts: me.renai.panic
 Built-Using: Tale APT/2.0 (Aphrodite)
 Filename: ./debs/me.tale.panic_1.1.2_iphoneos-arm64.deb
-Size: 133588
-MD5sum: f833f8f6f74347b201a203db3c5c5d0b
-SHA1: cefc76e2ba9d9da8e5564f07593f7caddbc5f29e
-SHA256: 49c0f6d6a197417643ddf3a049fe46115ce3c26f71d1de353cdd1d9f9d036aba
+Size: 133504
+MD5sum: 6385fe5e14977701daf18e4eafa689d5
+SHA1: 7cdcc3e6ec62cbddb91245421650d1b9ed51fed0
+SHA256: c003df62665f9f4cea95cfb8f70c33003eaf6696deb99fc3b98fa09a0e7b6132
 Section: Tweaks
 Description: Stop! Don't panic, you can still fix this...
 Author: Aarnav Tale <aarnav@tale.me>
