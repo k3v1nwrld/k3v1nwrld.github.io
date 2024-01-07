@@ -31,22 +31,6 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paiss
 Name: iCleaner Pro Crack
 Sileodepiction: https://paisseon.github.io/depictions/icleaner-pro-crack.json
 
-Package: com.ethanarbuckle.apollo-customapicredentials
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Ethan Arbuckle
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.ethanarbuckle.apollo-customapicredentials_1.0.0_iphoneos-arm64.deb
-Size: 2444
-MD5sum: a3dde5e3c55005117fd5d32bd9f11927
-SHA1: 1ece94bf2f81653d5adbe42fa46c4f91a992e009
-SHA256: 286f3dd07224e54a1fbc93f8fc60bcb79aa81fa33d8983ec73bccd9455b80de1
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Ethan Arbuckle
-Name: Apollo-CustomApiCredentials
-
 Package: com.ethanrdoesmc.truecuts
 Version: 1.1.0
 Architecture: iphoneos-arm64
@@ -73,10 +57,10 @@ Maintainer: Hius
 Installed-Size: 176
 Depends: mobilesubstrate
 Filename: ./debs/com.hius.avlolock_1.0_iphoneos-arm64.deb
-Size: 14912
-MD5sum: f7f51e590f65d8b76915f5a8eae9c376
-SHA1: 44f68ad7a8c8853deb15d780058771b83fcaf840
-SHA256: 31c2ca6326a94211351880b231dfb3179df9400cd7ffd5889056410db24c1cac
+Size: 14956
+MD5sum: 76df673edf17e17df39712e6cc55c49a
+SHA1: fbf4b30246b46828be3e91a1cc3810b8926f69a8
+SHA256: ee59d2b0fa0251515ce15b71af9298d6a99e07a57d8a56262ed396b8f8ddd845
 Section: Tweaks
 Description: Add landscape orientation lock button to AVPlayer.
 Author: Hius
@@ -135,23 +119,6 @@ Section: Tweaks
 Description: Kaboom gamecenter notifs
 Author: kevin
 Name: GameShut
-
-Package: com.lilliana.apollocrack
-Version: 1.3.3
-Architecture: iphoneos-arm64
-Maintainer: Lilliana
-Depends: firmware (>= 12.2)
-Filename: ./debs/com.lilliana.apollocrack_1.3.3_iphoneos-arm64.deb
-Size: 34464
-MD5sum: af197acf2791bb775091132405505860
-SHA1: aa85025cf467a2a622dea76d5ab58002c4139dbe
-SHA256: 73cc70d99da1d3967f368201e420f9176c3304048662421ecda83b0cd82732d3
-Section: Tweaks
-Description: Apollo Ultra for free
-Author: Lilliana
-Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/apollo-ultra-crack.json&name=ApolloCrack&dev=Lilliana
-Name: Apollo Ultra Crack
-Sileodepiction: https://paisseon.github.io/depictions/apollo-ultra-crack.json
 
 Package: com.lns.hardrespring
 Version: 0.0.1
@@ -288,10 +255,10 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
 Conflicts: me.renai.panic
 Built-Using: Tale APT/2.0 (Aphrodite)
 Filename: ./debs/me.tale.panic_1.1.2_iphoneos-arm64.deb
-Size: 133528
-MD5sum: 9cdfd8d65d906c2b530f4ff62d45abdd
-SHA1: 716414a7a8686e6b5d878e9c7719d735943d1857
-SHA256: a996ab66c68f98331d9ac712b619bd9199369f70f337e46dfcfaa8edd8ab3181
+Size: 133588
+MD5sum: f833f8f6f74347b201a203db3c5c5d0b
+SHA1: cefc76e2ba9d9da8e5564f07593f7caddbc5f29e
+SHA256: 49c0f6d6a197417643ddf3a049fe46115ce3c26f71d1de353cdd1d9f9d036aba
 Section: Tweaks
 Description: Stop! Don't panic, you can still fix this...
 Author: Aarnav Tale <aarnav@tale.me>
