@@ -211,24 +211,6 @@ Description: Keep iCleanerPro alive when you leave the app. Also changes the def
 Author: Tanner Bennett
 Name: iCleanerZombie
 
-Package: com.udevs.debhoarder
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: udevs
-Installed-Size: 200
-Depends: mobilesubstrate, com.opa334.libundirect (>= 1.1.1)
-Filename: ./debs/com.udevs.debhoarder_1.0.2_iphoneos-arm64.deb
-Size: 7448
-MD5sum: 1a1be96ec81926105b06f5b607b7fa94
-SHA1: 6f383c9688815afc4b01458bc3a2e241af586cda
-SHA256: 67870d7faf980a5da1354f55a729e1f51f1f675f9a5ca506d9a6509e1d488ccc
-Section: Tweaks
-Description: Backup deb file for Cydia, Zebra, Installer, and Sileo
-Author: udevs
-Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.debhoarder
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.debhoarder/icon/icon.png
-Name: DebHoarder
-
 Package: me.alfhaily.opencli
 Version: 1.0.0
 Architecture: iphoneos-arm64
