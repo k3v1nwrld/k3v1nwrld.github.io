@@ -258,17 +258,14 @@ Maintainer: sourcelocation
 Installed-Size: 896
 Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
 Filename: ./debs/ovh.exerhythm.cardculator_2.1.1_iphoneos-arm64.deb
-Size: 115924
-MD5sum: 68a55ad0b74c1db76afe0d8b55b6338f
-SHA1: 189b0c559495ce0fe355fa19ddd2660a929fd0d2
-SHA256: 276a6620e64824afa1af8f7d6ada0123a156e83f675ecf4fd35e56893baa8fe1
+Size: 116248
+MD5sum: ea0c8594715c3ffc41f217c7034cd231
+SHA1: 496619338c0eb19c20d07b0e01fb37c13ee294c3
+SHA256: f555d1e67793a84b8b1cdd60e7475f4ebf0d083660ed32b367a54a5c2378d3ae
 Section: Tweaks
 Description: Calculator, but smaller
 Author: sourcelocation
-Depiction: https://havoc.app/depiction/cardculator
-Icon: https://media.havoc.app/627ad1f664d09c07d4a40439
 Name: Cardculator
-Sileodepiction: https://havoc.app/package/cardculator/depiction.json
 
 Package: uikittools
 Version: 2.1.6-1
