@@ -33,7 +33,7 @@ jobs:
           sh update.sh
 
       - name: Commit and Push Changes
-        uses: EndBug/add-and-commit@v8
+        uses: EndBug/add-and-commit@v9.1.4
         with:
           message: "Update Packages"
           add: "." 
@@ -58,7 +58,7 @@ jobs:
           destination: ./_site
       
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
       
   # Deployment job
   deploy:
