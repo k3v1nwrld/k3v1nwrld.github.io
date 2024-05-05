@@ -31,6 +31,14 @@ jobs:
         run: |
           sh update.sh
 
+      # Automatically add and commit changes with a GitHub Action
+      - name: Commit and Push Changes
+        uses: EndBug/add-and-commit@v8
+        with:
+          message: "Update Packages"
+          branch: main
+          add: "."    
+
   # Build Jekyll and Deploy to GitHub Pages
   build_and_deploy:
     runs-on: ubuntu-latest
