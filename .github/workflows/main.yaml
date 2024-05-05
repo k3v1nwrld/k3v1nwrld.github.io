@@ -40,6 +40,8 @@ jobs:
         with:
           message: "Update Packages"
           add: "." 
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}  
 
   # Build Jekyll and Deploy to GitHub Pages
   build_and_deploy:
