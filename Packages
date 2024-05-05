@@ -55,12 +55,28 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Hius
 Installed-Size: 176
-Depends: mobilesubstrate
+Depends: mobilesubstrate, fakeroot
+Filename: ./debs/com.hius.avlolock_1.0_iphoneos-arm64 (1).deb
+Size: 14936
+MD5sum: 5db89c81bf968cb2aa6ccdb8df9a7968
+SHA1: 82c9b58c8a6f2fe86e98c01a33da05fb59a07d5d
+SHA256: 26860451d9e001bcbbf830a99622f0118beb69ecc6c9b07f2bab272c602b68b3
+Section: Tweaks
+Description: Add landscape orientation lock button to AVPlayer.
+Author: Hius
+Name: AV Landscape Orientation Lock
+
+Package: com.hius.avlolock
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Hius
+Installed-Size: 176
+Depends: mobilesubstrate, fakeroot
 Filename: ./debs/com.hius.avlolock_1.0_iphoneos-arm64.deb
-Size: 14948
-MD5sum: aca5f2a13a8072b5cbf2f244fa324b25
-SHA1: c34c3d5d155e873a542bcabd183d69a6c3c3ccd2
-SHA256: 31def0cd26c535b81f1ca20778b2634d822be8f970ec12c5dc69e56f50605019
+Size: 14936
+MD5sum: 5db89c81bf968cb2aa6ccdb8df9a7968
+SHA1: 82c9b58c8a6f2fe86e98c01a33da05fb59a07d5d
+SHA256: 26860451d9e001bcbbf830a99622f0118beb69ecc6c9b07f2bab272c602b68b3
 Section: Tweaks
 Description: Add landscape orientation lock button to AVPlayer.
 Author: Hius
@@ -233,14 +249,14 @@ Package: me.tale.panic
 Version: 1.1.2
 Architecture: iphoneos-arm64
 Maintainer: Aarnav Tale <aarnav@tale.me>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, fakeroot
 Conflicts: me.renai.panic
 Built-Using: Tale APT/2.0 (Aphrodite)
 Filename: ./debs/me.tale.panic_1.1.2_iphoneos-arm64.deb
-Size: 133504
-MD5sum: 6385fe5e14977701daf18e4eafa689d5
-SHA1: 7cdcc3e6ec62cbddb91245421650d1b9ed51fed0
-SHA256: c003df62665f9f4cea95cfb8f70c33003eaf6696deb99fc3b98fa09a0e7b6132
+Size: 133712
+MD5sum: b00d34154c54015f2408eeb5a3f03d9f
+SHA1: ec84a8d7f22dba5209f0065e9b4b0458c043b779
+SHA256: cd14d4c589fad8c30db2db732863c7efbecd8c8d9803675363dd91e400eb2bb1
 Section: Tweaks
 Description: Stop! Don't panic, you can still fix this...
 Author: Aarnav Tale <aarnav@tale.me>
